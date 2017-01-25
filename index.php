@@ -6,7 +6,7 @@
     </head>
     <body>
         <?php
-        // put your code here
+        echo "pqp agura essa parada vai dar certo!";
         ?>
     </body>
 </html>
